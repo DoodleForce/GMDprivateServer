@@ -1,4 +1,10 @@
+<!DOCTYPE html>
+<html>
+	<body>
 <a href="../dashboard">Check out the dashboard beta here</a>
+		<a href="../tools/account">Account Tools</a>
+	</body>
+</html>
 <?php
 function listdir($dir){
 	$dirstring = "";
